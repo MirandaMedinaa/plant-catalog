@@ -1,1 +1,3 @@
-# plant-catalog
+# Plant Catalog
+
+> This project features an interactive plant catalog website in which plants are displayed using information queried from multiple relational databases using SQLite and PHP. The schema for these databases had to be planned and derived from user interviews. On this website, the average user can filter the plants based on plant type or sort them based alphabetically. Each plant has an individual page with its plant characteristics. Authorized users are able to sign in/sign out and insert, edit, and delete plant entries. They are also able to upload their own plant photos from their personal device onto the website. Technologies used: PHP, HTML/CSS, SQLite

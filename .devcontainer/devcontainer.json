@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.205.2/containers/php
 {
-  "name": "INFO2300: PHP",
+  "name": "Plant Catalog",
   "build": {
     "dockerfile": "Dockerfile",
     "args": {
